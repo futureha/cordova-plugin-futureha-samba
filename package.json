@@ -1,0 +1,16 @@
+{
+  "name": "cordova-plugin-futureha-samba",
+  "version": "1.0.0",
+  "cordova": {
+    "id": "cordova-plugin-futureha-samba",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/futureha/cordova-plugin-futureha-samba"
+  },
+  "description": "Samba a Cordova Plugin"
+}
